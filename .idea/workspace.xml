@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f67c9c8-286e-4403-8cef-864070625d88" name="Default Changelist" comment="" />
+    <list default="true" id="7f67c9c8-286e-4403-8cef-864070625d88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice_eight/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_eight/practice_eight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_nine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_nine/practice_nine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_seven/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_seven/practice_seven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_six/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_six/practice_six.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verification_two/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verification_two/verification_two.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практическая 6.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ verification_one/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ verification_one/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +48,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hLz5wvZBxozz21aP44vPVvcJIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,11 +68,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ verification_one" />
+      <recent name="$PROJECT_DIR$/ verification_one/test" />
       <recent name="$PROJECT_DIR$/practice_One" />
     </key>
   </component>
@@ -48,13 +89,40 @@
       <workItem from="1599804982545" duration="7824000" />
       <workItem from="1599980085446" duration="4869000" />
       <workItem from="1599991773828" duration="1284000" />
+      <workItem from="1600149909246" duration="3466000" />
+      <workItem from="1600159760448" duration="613000" />
+      <workItem from="1600169039109" duration="2012000" />
+      <workItem from="1600232684701" duration="70000" />
+      <workItem from="1600252409379" duration="2456000" />
+      <workItem from="1600331889083" duration="3622000" />
+      <workItem from="1600350644674" duration="1190000" />
+      <workItem from="1600352602322" duration="124000" />
+      <workItem from="1600408996052" duration="62000" />
+      <workItem from="1600409095834" duration="4513000" />
+      <workItem from="1600420806405" duration="4147000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="108" y="205" width="732" height="631" key="#Inspections" timestamp="1600410011910">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="108" y="205" width="732" height="631" key="#Inspections/0.0.1920.1049@0.0.1920.1049" timestamp="1600410011910" />
     <state x="0" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599805187592">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
@@ -67,5 +135,28 @@
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="297" y="450" width="354" height="141" key="NewPhpFileDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1599804997199" />
+    <state x="464" y="158" key="SettingsEditor" timestamp="1600159778896">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="464" y="158" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1600159778896" />
+    <state x="74" y="260" width="799" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600411781312">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="74" y="260" width="799" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1049@0.0.1920.1049" timestamp="1600411781312" />
+    <state x="1103" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1600411768321">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="1103" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1049@0.0.1920.1049" timestamp="1600411768321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/practice_six/practice_six.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
