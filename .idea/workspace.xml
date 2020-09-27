@@ -53,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -109,7 +110,9 @@
       <workItem from="1601002229777" duration="85000" />
       <workItem from="1601019399440" duration="2000" />
       <workItem from="1601021338851" duration="621000" />
-      <workItem from="1601036281708" duration="344000" />
+      <workItem from="1601036281708" duration="974000" />
+      <workItem from="1601118290306" duration="12446000" />
+      <workItem from="1601188640425" duration="49000" />
     </task>
     <servers />
   </component>
@@ -161,16 +164,5 @@
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="1103" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1049@0.0.1920.1049" timestamp="1600844696093" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/verification_two/verification_two.js</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
